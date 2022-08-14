@@ -1,11 +1,11 @@
 <br />
 <h1>
 <p align="center">
-  <img src="https://github.com/johnsonduong/rock-paper-scissors/blob/main/images/favicon.png?raw=true" alt="Logo" width="110" height="110">
-  <br>ëyecon
+  <img src="https://github.com/johnsonduong/eyecon/blob/main/images/logo.png?raw=true" alt="Logo" width="110">
+  <br>
 </h1>
 <p align="center">
-    A modern mock landing page
+    A modern and responsive mock landing page
     <br />
     </p>
 </p>
@@ -17,7 +17,7 @@
 
 <p align="center">
   
-<img src="https://github.com/johnsonduong/rock-paper-scissors/blob/main/images/rockpaperscissors.png?raw=true" alt="Logo" >
+<img src="https://github.com/johnsonduong/eyecon/blob/main/images/eyecon.png?raw=true" alt="Logo" >
 </p>                                                                                                                             
                                                                                                                                                       
 ## About The Project
